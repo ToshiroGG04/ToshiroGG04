@@ -6,9 +6,9 @@
 
 4. pkg install python -y
 
-5. git clone https://github.com/CPMElsedev/CPMElsedev.git
+5. git clone https://github.com/ToshiroGG04/vip.git
 
-6. cd CPMElsedev
+6. cd vip
 
 7. git pull
 
